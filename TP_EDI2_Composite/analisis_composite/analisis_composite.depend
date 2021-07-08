@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1625709583 source:c:\users\casa\documents\codeblocks\adrian\tp_edi2_composite\analisis_composite\file.cpp
+	<iostream>
+	"IListable.h"
+
+1625709246 c:\users\casa\documents\codeblocks\adrian\tp_edi2_composite\analisis_composite\ilistable.h
+	<iostream>
+
+1625709599 source:c:\users\casa\documents\codeblocks\adrian\tp_edi2_composite\analisis_composite\folder.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"IComposableOfListable.h"
+	"IListable.h"
+
+1625709381 c:\users\casa\documents\codeblocks\adrian\tp_edi2_composite\analisis_composite\icomposableoflistable.h
+	<iostream>
+	"./IListable.h"
+
